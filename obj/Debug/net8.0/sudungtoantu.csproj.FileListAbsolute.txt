@@ -1,0 +1,14 @@
+E:\sudungtoantu\bin\Debug\net8.0\sudungtoantu.exe
+E:\sudungtoantu\bin\Debug\net8.0\sudungtoantu.deps.json
+E:\sudungtoantu\bin\Debug\net8.0\sudungtoantu.runtimeconfig.json
+E:\sudungtoantu\bin\Debug\net8.0\sudungtoantu.dll
+E:\sudungtoantu\bin\Debug\net8.0\sudungtoantu.pdb
+E:\sudungtoantu\obj\Debug\net8.0\sudungtoantu.GeneratedMSBuildEditorConfig.editorconfig
+E:\sudungtoantu\obj\Debug\net8.0\sudungtoantu.AssemblyInfoInputs.cache
+E:\sudungtoantu\obj\Debug\net8.0\sudungtoantu.AssemblyInfo.cs
+E:\sudungtoantu\obj\Debug\net8.0\sudungtoantu.csproj.CoreCompileInputs.cache
+E:\sudungtoantu\obj\Debug\net8.0\sudungtoantu.dll
+E:\sudungtoantu\obj\Debug\net8.0\refint\sudungtoantu.dll
+E:\sudungtoantu\obj\Debug\net8.0\sudungtoantu.pdb
+E:\sudungtoantu\obj\Debug\net8.0\sudungtoantu.genruntimeconfig.cache
+E:\sudungtoantu\obj\Debug\net8.0\ref\sudungtoantu.dll
